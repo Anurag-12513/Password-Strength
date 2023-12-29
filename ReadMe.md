@@ -2,4 +2,4 @@
 
 # I have built this project using html, css and JavaScript.
 
-#Mini-project
+# Mini-Project
